@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <description>&lt;h4&gt;description&lt;/h4&gt;</description>
+      <discount>31</discount>
+      <name>Test Product</name>
+      <quantity>2</quantity>
+      <retail_price>33</retail_price>
+      <retail_price_with_iva>333</retail_price_with_iva>
+      <short_description>&lt;h4&gt;short_description&lt;/h4&gt;</short_description>
+      <status>available</status>
+      <wholesale_price>77</wholesale_price>
+      <wholesale_price_with_iva>777</wholesale_price_with_iva>
+   </element>
+</root>
